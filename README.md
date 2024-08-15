@@ -26,8 +26,8 @@ Build your own custom recovery for Nokia 5.4 (DRD_sprout).
 - [X] ADB Sideload
 - [X] MTP
 
-#Bugs
-- Fastbootd
+# Bugs
+- [ ] Fastbootd
 
 ```
 # Copyright (C) 2024 The Android Open Source Project
